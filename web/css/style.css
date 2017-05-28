@@ -1,0 +1,39 @@
+/* ---------- GENERAL ---------- */
+* {
+  box-sizing: border-box;
+}
+*:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  background: #eaeaea;
+  color: #999;
+  font: 400 16px/1.5em sans-serif;
+  margin: 0;
+}
+
+h3 {
+  margin: 0;
+}
+
+a {
+  color: #999;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1dabb8;
+}
+
+
+.containerGeneral {
+  width: 100%;
+  left: 10%;  
+  position: fixed;  
+  top: 5%;
+  -webkit-transform: translate(-5%, -5%);
+      -ms-transform: translate(-5%, -5%);
+          transform: translate(-5%, -5%);
+}
+
