@@ -13,5 +13,5 @@
     <br/>
     <br/>
     <div align="center">    <img src="../../image/KANBAN.png" width="1000" height="400" /> </div>
-    
+    s
     <jsp:include page="structPage/footer.jsp"></jsp:include>
