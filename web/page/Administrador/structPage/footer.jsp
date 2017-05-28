@@ -8,9 +8,9 @@
   <div class="row">
 
     <div class="col-sm-6">
-      <h4>SGM</h4>
+      <h4>SP</h4>
       <p class="lead">
-        Sistema de Gestión Mercadito 
+        Semillero de Proyectos 
       </p>
       
     </div>

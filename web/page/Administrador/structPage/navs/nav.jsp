@@ -13,7 +13,7 @@
             <h3 class="small-xs">
               Administrador
               <small>
-                Mercadito
+                Semillero de Proyectos
               </small>
             </h3>
           </div>
